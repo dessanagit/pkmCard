@@ -138,7 +138,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		aZFg/pYCMbsqekx82gmNUYUHq4s=
+		RkXFiCMj+GeJxbAXTSs0xs0/MKU=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -146,15 +146,15 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		eLa6dhaKCEUWqGS36hfVLmxnVfg=
+		nefZj7RNDWdE1qKpSe3TpfSRqyQ=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
-		oG5/OGn+vw7vp/nu5DUDoZJ4nFc=
+		k8p2/5V3YF8UF74MPp5gGlJOvSk=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<data>
-		lILml1/Dm8FIsisqu4EM3Kg929Q=
+		xtHgd7LFwvJwjE/6+CpDotkfVNg=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/LICENSE</key>
 		<data>
@@ -164,13 +164,21 @@
 		<data>
 		nIzDzw7hjOThppiX5OleKNAxtqM=
 		</data>
+		<key>Frameworks/App.framework/flutter_assets/fonts/Merriweather-Regular.ttf</key>
+		<data>
+		LL4auzeXFJ1ZOpDO1+PJ+pmvUMo=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/images/chikorita.jpg</key>
+		<data>
+		KZw/H9wBvotAnMMTCWNsS3YGXig=
+		</data>
 		<key>Frameworks/App.framework/flutter_assets/isolate_snapshot_data</key>
 		<data>
 		6Q7gJUs/xoGfGSssJQF4HSQt+tg=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		kHo7aC9kpQwb2skP2Gsagdsq3cE=
+		nXYP+M7jtcMelRv4dCyBUwhNEgA=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -574,11 +582,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			aZFg/pYCMbsqekx82gmNUYUHq4s=
+			RkXFiCMj+GeJxbAXTSs0xs0/MKU=
 			</data>
 			<key>hash2</key>
 			<data>
-			q3keLtKx2NSQqF5cZM882JWUdd6CKyDFAKcT7CxLvLY=
+			HJ/5/8SDjd+cJ6hOUkzQai86Xzc0U1Thpiac14b6LLg=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -596,33 +604,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eLa6dhaKCEUWqGS36hfVLmxnVfg=
+			nefZj7RNDWdE1qKpSe3TpfSRqyQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			LbTxKSJG9eTj6CbL40ShtzjhhWIeIGlErWRFhmEsDLc=
+			0rbF0MQj37G5llbzTnnSC6AUMln9nTUA8oH1/r/22Ig=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			oG5/OGn+vw7vp/nu5DUDoZJ4nFc=
+			k8p2/5V3YF8UF74MPp5gGlJOvSk=
 			</data>
 			<key>hash2</key>
 			<data>
-			Sps95+7JukayebvM0TLjL1LW1VXXndpKp/O8tOm9ZR8=
+			ObBJEJ9yaFDK9uahpUecqYT2zNP6XIH7W/O/YxpQhEY=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			lILml1/Dm8FIsisqu4EM3Kg929Q=
+			xtHgd7LFwvJwjE/6+CpDotkfVNg=
 			</data>
 			<key>hash2</key>
 			<data>
-			YwkPE2N7k/su9XjVFpdeoUy7GFY9DEY+G4h3aEyC1dg=
+			dW8PgwQx2pinYAOqoN7a646s61ICHb1EALoPORn9Vgw=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/LICENSE</key>
@@ -647,6 +655,28 @@
 			Wuh7JiGdsCj8cMnXMpa8jtW4ekzRz359zPE0NyQ7iRE=
 			</data>
 		</dict>
+		<key>Frameworks/App.framework/flutter_assets/fonts/Merriweather-Regular.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LL4auzeXFJ1ZOpDO1+PJ+pmvUMo=
+			</data>
+			<key>hash2</key>
+			<data>
+			enA63AOqHV2DxsMLHesctIqpnUMrXyV7RtNdIrP9b8E=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/images/chikorita.jpg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			KZw/H9wBvotAnMMTCWNsS3YGXig=
+			</data>
+			<key>hash2</key>
+			<data>
+			vvZgJrEFzE1UULyjFog6QgnSeI/KPVBkuMThwZyXVrY=
+			</data>
+		</dict>
 		<key>Frameworks/App.framework/flutter_assets/isolate_snapshot_data</key>
 		<dict>
 			<key>hash</key>
@@ -662,11 +692,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kHo7aC9kpQwb2skP2Gsagdsq3cE=
+			nXYP+M7jtcMelRv4dCyBUwhNEgA=
 			</data>
 			<key>hash2</key>
 			<data>
-			6QjyGUJiu4wGWfdCcnHo9eW/IoT/PO61xofCzb9ZJiM=
+			/Di7md9QauHvgAh5px6Dz9Q3M2YaEO0x4XrDFqPBGa4=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
